@@ -49,6 +49,39 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTVLCOPT:network-caching=1000
 http://103.159.4.38:5868/BD-BANGLA-10/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.channelionline.com/wp-content/uploads/2018/04/channelionline.jpg",Channel I HD
+#EXTVLCOPT:network-caching=1000
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAU5BxQ-Mg5EEqA4gNn-Nz0fy-wsKASotiAw&usqp=CAU",Doyel TV
+#EXTVLCOPT:network-caching=1000
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/doyeltv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OVHdRDTjpvBTvXOk0xwMOfhSjCG_cCmt1w&usqp=CAU",Ekushey TV
+#EXTVLCOPT:network-caching=1000
+#http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV HD
+#EXTVLCOPT:network-caching=1000
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://dl.dropbox.com/s/uordrcep05gvxr3/rtv_bd.png",RTV HD
+#EXTVLCOPT:network-caching=1000
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+
+#EXTINF:1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/WpMA9kC.png",Anando TV
+#EXTVLCOPT:network-caching=1000
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://play-lh.googleusercontent.com/m7UvZLUj76Gv2Rwvbk1sKYk6ra6zWWmQGkJMCMZtvUME59BH76vU4ScIY0L_qw_qHA",Nandan Tv
+#EXTVLCOPT:network-caching=1000
+http://nandansyst.com/hls/nandan.m3u8
+
+
+
+
+
 
 
 
