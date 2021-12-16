@@ -18,12 +18,48 @@ http://mirrorclub.cf/0://Beporowa%20Mon%20-%20Habib%20Wahid%2C%20Tanjin%20Tisha%
 #EXTVLCOPT:network-caching=1000
 http://mirrorclub.cf/0://Eredaze%20-Torn%20Apart%20-%20version%20free%20fire%202020%20%5BAMV%5D%281080P_HD%29_1.mp4
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/400px-Bangladesh_Television_Logo.svg.png",BTV
+#EXTINF:-1 group-title="Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSU4En0P3CsFYmXa_zLv68saBHXrebDqoEwA&usqp=CAU",Live Match 1
+#EXTVLCOPT:network-caching=1000
+#http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+http://103.159.4.38:9090/SPORTS-7/index.m3u8
+
+#EXTINF:-1 group-title="Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSU4En0P3CsFYmXa_zLv68saBHXrebDqoEwA&usqp=CAU",Live Match 2
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/400px-Bangladesh_Television_Logo.svg.png",BTV
 #EXTVLCOPT:network-caching=1000
 #http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 http://103.106.2.149:13456/btv.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png",BTV WORLD
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://dl.dropbox.com/s/ynmbf1f9g2pu3y5/btv_world.png",BTV WORLD
 #EXTVLCOPT:network-caching=1000
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 http://208.86.19.21/627.stream/index.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png",ATN Bangla
+#EXTVLCOPT:network-caching=1000
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://s4.gifyu.com/images/image5c0bfa6b281be803.png" ,Banglavision
+#EXTVLCOPT:network-caching=1000
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi TV
+#EXTVLCOPT:network-caching=1000
+http://103.159.4.38:5868/BD-BANGLA-10/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
