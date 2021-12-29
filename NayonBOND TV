@@ -365,8 +365,9 @@ https://streamer-1.toffeelive.com/mobile_hls/dd_bangla/5/04dfcf51f5f17bc7739a41f
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4bzYUrSFDja1ufRRnomNqycj4thhfeuyVg&usqp=CAU",Sangeet Bangla
 #EXTVLCOPT:network-caching=1000
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#http://103.161.2.142/hls/sangitbangla.m3u8
 
-#EXTINF:-1 group-title="News" tvg-logo="https://static.abplive.com/frontend/images/nw-bengali-og.png?impolicy=abp_cdn&imwidth=600",ABP Ananda
+#EXTINF:-1 group-title="News" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/abp%20anando.png",ABP Ananda
 #EXTVLCOPT:network-caching=1000
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 
