@@ -469,6 +469,10 @@ http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #Music  group-title="Music"
 
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zoom.jpeg",ZOOM
+#EXTVLCOPT:network-caching=1000
+http://103.161.2.142/hls/zoom.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/mtv%20music.jpeg",MTV HD
 #EXTVLCOPT:network-caching=1000
 http://183.178.58.115:8023/0.m3u8
