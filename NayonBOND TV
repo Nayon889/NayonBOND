@@ -381,6 +381,10 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #https://tvstream.space//jtv/ddx.php?c=Sony_SAB&q=800&e=.m3u8
 #https://tvstream.space//jtv/ddx.php?c=Sony_SAB_HD&q=800&e=.m3u8
 
+#EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sony%20pal.jpeg", Sony Pal
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=Sony_Pal&q=800&e=.m3u8
+
 #EXTINF:-1 group-title="Indian" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcp8IvUAr5AUbOb88QMSCT-CX314qGdW1lxPhnJQ=s900-c-k-c0x00ffffff-no-rj",Zee TV HD
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
@@ -402,6 +406,10 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #http://103.159.4.38:5868/IN-BANGLA-3/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20hd.jpeg",Colors HD
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=Colors_HD&q=800&e=.m3u8
+
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/hum-tv-logo-512x512.png",Hum HD
 #EXTVLCOPT:network-caching=1000
 #http://208.86.19.21/611.stream/index.m3u8
@@ -415,6 +423,7 @@ http://208.86.19.21:80/721.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #http://183.178.58.115:8027/0.m3u8
+#https://tvstream.space//jtv/ddx.php?c=Sony_Max_HD&q=800&e=.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207",Zee Action
 #EXTVLCOPT:network-caching=1000
@@ -465,6 +474,10 @@ http://208.86.19.21/701.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://208.115.215.42/ZEE_Anm0l_HD/index.m3u8
 
+#EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zee%20anmol%20cinema.jpeg", Zee Anmol Cinema
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=Zee_Anmol_Cinema&q=800&e=.m3u8
+
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/dd%20national", DD National
 #EXTVLCOPT:network-caching=1000
 https://tvstream.space/jtv/bxbx.php?c=DD_National&q=1200&e=junk.m3u8
@@ -481,6 +494,10 @@ http://208.86.19.21:80/705.stream/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/mtv%20india.png",MTV India
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=MTV&q=800&e=.m3u8
+
 
 
 
@@ -492,9 +509,9 @@ http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.161.2.142/hls/zoom.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/mtv%20music.jpeg",MTV HD
+#EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/mtv%20beats%20hd.jpeg",MTV Beats
 #EXTVLCOPT:network-caching=1000
-http://183.178.58.115:8023/0.m3u8
+https://tvstream.space//jtv/ddx.php?c=MTV_Beats_HD&q=800&e=.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png",Zing
 #EXTVLCOPT:network-caching=1000
