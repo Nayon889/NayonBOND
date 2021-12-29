@@ -620,10 +620,18 @@ http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #Cartoon
 
 
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/cn%20hindi.png",Cartoon Network Hindi
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=Cartoon_Network_Hindi&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/Hungama_TV.svg.png",Hungama
+#EXTVLCOPT:network-caching=1000
+http://103.153.39.36:8000/play/a01x
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/Disney_Channel_logo.svg.png",Disney Channel
 #EXTVLCOPT:network-caching=1000
-http://45.161.188.242:88/disneychannel/mono.m3u8
+#http://45.161.188.242:88/disneychannel/mono.m3u8
+http://103.153.39.36:8000/play/a01y
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sony%20yay.png",Sony Yay
 #EXTVLCOPT:network-caching=1000
@@ -637,4 +645,6 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 #EXTVLCOPT:network-caching=1000
 http://45.161.188.242:88/babytv/mono.m3u8
 
-
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/mr%20bean.jpeg",Mr. Bean 24/7
+#EXTVLCOPT:network-caching=1000
+http://bestsave.ltd:2052/55667788/88776655/29022
