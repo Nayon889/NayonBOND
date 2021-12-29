@@ -100,6 +100,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/460px-Mohona_tv_Logo.svg.png",MOHONA TV
 #EXTVLCOPT:network-caching=1000
 https://cdn.appv.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
+#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8?
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://media-eng.dhakatribune.com/uploads/2016/12/1535_.jpg",Deepto TV
 #EXTVLCOPT:network-caching=1000
@@ -223,6 +224,7 @@ http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
 
 
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://television-live.com/uploads/posts/ch4hrthryhcergherg.jpg",Deshe Bideshe 
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
@@ -234,6 +236,13 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/VoiceTV.png",Voice TV
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fxq0pV2.png", Asian TV 
+#EXTVLCOPT:network-caching=1000
+#http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
+http://103.161.2.142/hls/Asian_TV.m3u8
+
+
 
 
 
@@ -252,10 +261,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTVLCOPT:network-caching=1000
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 http://103.161.2.142/hls/satv.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fxq0pV2.png", Asian TV 
-#EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" ,Channel 24
 #EXTVLCOPT:network-caching=1000
@@ -299,7 +304,13 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 #IndianBangla  group-title="Indian" 
 
-#EXTINF:-1 group-title="Indian" tvg-logo="https://w7.pngwing.com/pngs/225/230/png-transparent-zee-bangla-television-channel-zee-tv-zee-entertainment-enterprises-others-television-text-logo.png",ZEE Bangla HD
+
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zee%20bangla.jpeg",ZEE Bangla
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=Zee_Bangla&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zee%20bangla%20hd.jpeg",ZEE Bangla HD
 #EXTVLCOPT:network-caching=1000
 #http://208.86.19.21:80/906.stream/index.m3u8
 #https://tvstream.space//jtv/tvisl.php?c=Zee_Bangla&q=800&e=.m3u8
@@ -333,6 +344,7 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
+#https://tvstream.space//jtv/ddx.php?c=Sony_aath&q=800&e=.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sunbangala1.sunkabangla.bangla3_1.png",Sun Bangla
 #EXTVLCOPT:network-caching=1000
