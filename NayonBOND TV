@@ -583,6 +583,10 @@ http://45.161.188.242:88/hbo2/mono.m3u8
 #EXTVLCOPT:network-caching=1000
 http://45.161.188.242:88/hboxtreme/mono.m3u8
 
+#EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sonypix_hd_masthead_logo.png",Sony Pix HD
+#EXTVLCOPT:network-caching=1000
+http://103.161.2.142/hls/sonypixhd.m3u8
+
 #EXTINF:-1 group-title="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmX4PfmB5dSYPEGI7lj6e0g32zezdDDdwelg&usqp=CAU",AXN
 #EXTVLCOPT:network-caching=1000
 http://45.161.188.242:88/axn/mono.m3u8
