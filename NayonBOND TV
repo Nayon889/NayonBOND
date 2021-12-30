@@ -629,11 +629,11 @@ https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiot
 https://tvstream.space//jtv/ddx.php?c=Animal_Planet_English&q=800&e=.m3u8
 #https://tvstream.space//jtv/ddx.php?c=Animal_Planet_HD&q=800&e=.m3u8
 
-#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Channel
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Hindi
 #EXTVLCOPT:network-caching=1000
 https://tvstream.space//jtv/ddx.php?c=Discovery_Channel_Hindi&q=800&e=.m3u8
 
-#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Channel
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery English
 #EXTVLCOPT:network-caching=1000
 #https://tvstream.space//jtv/ddx.php?c=Discovery_HD_World&q=800&e=.m3u8
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
