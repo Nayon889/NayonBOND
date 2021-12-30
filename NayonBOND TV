@@ -590,9 +590,22 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 #EXTVLCOPT:network-caching=1000
 http://103.161.2.142/hls/wild.m3u8
 
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet Hindi
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet English
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=Animal_Planet_English&q=800&e=.m3u8
+#https://tvstream.space//jtv/ddx.php?c=Animal_Planet_HD&q=800&e=.m3u8
+
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Channel
 #EXTVLCOPT:network-caching=1000
-#http://45.161.188.242:88/discoverychannel/mono.m3u8
+https://tvstream.space//jtv/ddx.php?c=Discovery_Channel_Hindi&q=800&e=.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Channel
+#EXTVLCOPT:network-caching=1000
+#https://tvstream.space//jtv/ddx.php?c=Discovery_HD_World&q=800&e=.m3u8
 https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/redbull%20tv.png",Redbull TV
