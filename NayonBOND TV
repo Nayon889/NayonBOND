@@ -726,6 +726,10 @@ http://103.153.39.36:8000/play/a01y
 #EXTVLCOPT:network-caching=1000
 https://tvstream.space//jtv/ddx.php?c=Manoranjan_TV&q=800&e=.m3u8
 
+#EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/manoranjan%20grand.jpeg",Manoranjan Grand
+#EXTVLCOPT:network-caching=1000
+https://tvstream.space//jtv/ddx.php?c=Manoranjan_Grand&q=800&e=.m3u8
+
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/gubbare.jpeg",Gubbare
 #EXTVLCOPT:network-caching=1000
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8?token=thenayeemparvez
