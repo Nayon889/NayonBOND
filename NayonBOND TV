@@ -534,6 +534,10 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTVLCOPT:network-caching=1000
 http://103.161.2.142/hls/9xm.m3u8
 
+#EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/songdew-tv-black.png",SongDew TV
+#EXTVLCOPT:network-caching=1000
+https://durbinlive.com:443/live/jio?c=SongDew_TV&q=auto&e=IshanJiotv.m3u8
+
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/ary%20musik.jpeg",ARY Musik
 #EXTVLCOPT:network-caching=1000
 http://stream.arylive.com/arymusik/myStream/tracks-v2a1/mono.m3u8
