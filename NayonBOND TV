@@ -629,7 +629,6 @@ http://103.161.2.142/hls/wild.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet Hindi
 #EXTVLCOPT:network-caching=1000
-#https://tvstream.space//jtv/ddx.php?c=Animal_Planet_Hindi&q=800&e=.m3u8
 https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
@@ -638,12 +637,11 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet English
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=Animal_Planet_English&q=800&e=.m3u8
-#https://tvstream.space//jtv/ddx.php?c=Animal_Planet_HD&q=800&e=.m3u8
+https://durbinlive.com:443/live/jio?c=Animal_Planet_HD&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Hindi
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=Discovery_Channel_Hindi&q=800&e=.m3u8
+https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery English
 #EXTVLCOPT:network-caching=1000
@@ -752,12 +750,12 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8?token=thenayeemparvez
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/Discovery_Kids_logo.svg.png",Discovery Kids
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=Discovery_Kids_2&q=800&e=.m3u8
+https://durbinlive.com:443/live/jio?c=Discovery_Kids_2&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sony%20yay.png",Sony Yay
 #EXTVLCOPT:network-caching=1000
 http://103.161.2.142/hls/sonyyay.m3u8
-#https://tvstream.space//jtv/ddx.php?c=Sony_Yay_Hindi&q=800&e=.m3u8
+#https://durbinlive.com:443/live/jio?c=Sony_Yay_Hindi&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/cartoon%20net%20arabic.png",Cartoon Network Arabic
 #EXTVLCOPT:network-caching=1000
@@ -769,11 +767,11 @@ http://45.161.188.242:88/babytv/mono.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sonic.jpeg",Sonic Bangla
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=Sonic_Bangla&q=800&e=.m3u8
+
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sonic.jpeg",Sonic Hindi
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=sonic_Hindi&q=800&e=.m3u8
+https://durbinlive.com:443/live/jio?c=sonic_Hindi&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/mr%20bean.jpeg",Mr. Bean 24/7
 #EXTVLCOPT:network-caching=1000
