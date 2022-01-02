@@ -476,7 +476,7 @@ http://221.120.204.4/zee-cinema-LOCKLE/index.m3u8
 #EXTVLCOPT:network-caching=1000
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 group-title="Indian" tvg-logo="",Manoranjan Movies
+#EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/manoranjan%20movies.jpeg",Manoranjan Movies
 #EXTVLCOPT:network-caching=1000
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
 
