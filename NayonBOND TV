@@ -565,7 +565,7 @@ http://stream.arylive.com/arymusik/myStream/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/music%20india.png",Music India
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=Music_India&q=800&e=.m3u8
+https://durbinlive.com:443/live/jio?c=Music_India&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/kadak_logo_400x400.png",Kadak Hits
 #EXTVLCOPT:network-caching=1000
@@ -605,11 +605,11 @@ https://de1se01.v2beat.live/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/insync.png",Insync
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=Insync&q=800&e=.m3u8
+https://durbinlive.com:443/live/jio?c=Insync&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/boogle%20bollywood.jpeg",Boogle Bollywood
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=Boogle_Bollywood&q=800&e=.m3u8
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/ptc.jpeg",PTC Punjabi
 #EXTVLCOPT:network-caching=1000
@@ -701,8 +701,8 @@ http://221.120.204.4/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/FOX-LIFE-HD.png",Fox Life HD
 #EXTVLCOPT:network-caching=1000
-http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
-
+#http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.131.212.138:8000/play/a00p/index.m3u8
 
 
 
@@ -717,7 +717,7 @@ https://durbinlive.com:443/live/jio?c=Nickelodeon&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nick.jpeg",Nick Bangla
 #EXTVLCOPT:network-caching=1000
-#http://jo123.biz/jweb/m3u8.php?c=Nick_Bangla&=800&e=junk.m3u8
+
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/cn%20hindi.png",Cartoon Network Hindi
 #EXTVLCOPT:network-caching=1000
