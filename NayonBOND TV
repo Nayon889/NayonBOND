@@ -214,6 +214,7 @@ https://madnitv.vdn.dstreamone.net/madnitvbangla/madnibanglaabr/playlist.m3u8
 https://rhridoy136.shortcm.li/atnislamic.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwKztAr19AtXTKIlsi5mHDxRluHiV5JNSeA&usqp=CAU", Peace TV Bangla
+#EXTVLCOPT:network-caching=1000
 #http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 
@@ -308,7 +309,8 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zee%20bangla.jpeg",ZEE Bangla
 #EXTVLCOPT:network-caching=1000
-https://tvstream.space//jtv/ddx.php?c=Zee_Bangla&q=800&e=.m3u8
+#http://208.86.19.21:80/906.stream/index.m3u8
+https://durbinlive.com:443/live/jio?c=Zee_Bangla&q=800&e=.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zee%20bangla%20hd.jpeg",ZEE Bangla HD
 #EXTVLCOPT:network-caching=1000
@@ -318,7 +320,8 @@ http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg",ZEE Bangla Cinema
 #EXTVLCOPT:network-caching=1000
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
+https://durbinlive.com:443/live/jio?c=Zee_Cinema&q=800&e=.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIrqFypKCm7Xkcdniepuqwu16IpwsxB3y3w&usqp=CAU", Star Jalsha
 #EXTVLCOPT:network-caching=1000
@@ -346,9 +349,9 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png", Sony Aath 
 #EXTVLCOPT:network-caching=1000
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29119
-#https://tvstream.space//jtv/ddx.php?c=Sony_aath&q=800&e=.m3u8
+http://103.81.104.118/hls/Sony_Aath.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sunbangala1.sunkabangla.bangla3_1.png",Sun Bangla
 #EXTVLCOPT:network-caching=1000
@@ -623,17 +626,13 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 
 #Wild
 
-#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/wild.png",Wild HD
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
 #EXTVLCOPT:network-caching=1000
-http://103.161.2.142/hls/wild.m3u8
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet Hindi
 #EXTVLCOPT:network-caching=1000
 https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiotv.m3u8
-
-#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
-#EXTVLCOPT:network-caching=1000
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet English
 #EXTVLCOPT:network-caching=1000
@@ -645,8 +644,12 @@ https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiot
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery English
 #EXTVLCOPT:network-caching=1000
-#https://tvstream.space//jtv/ddx.php?c=Discovery_HD_World&q=800&e=.m3u8
-https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+http://103.81.104.118/hls/discovery.m3u8
+#https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/wild.png",Wild HD
+#EXTVLCOPT:network-caching=1000
+http://103.161.2.142/hls/wild.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/redbull%20tv.png",Redbull TV
 #EXTVLCOPT:network-caching=1000
