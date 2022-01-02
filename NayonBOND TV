@@ -731,7 +731,7 @@ https://durbinlive.com:443/live/jio?c=Nickelodeon&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nick.jpeg",Nick Bangla
 #EXTVLCOPT:network-caching=1000
-
+https://durbinlive.com:443/live/jio?c=Nick_Bangla&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/cn%20hindi.png",Cartoon Network Hindi
 #EXTVLCOPT:network-caching=1000
@@ -781,7 +781,7 @@ http://45.161.188.242:88/babytv/mono.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sonic.jpeg",Sonic Bangla
 #EXTVLCOPT:network-caching=1000
-
+https://durbinlive.com:443/live/jio?c=Sonic_Bangla&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sonic.jpeg",Sonic Hindi
 #EXTVLCOPT:network-caching=1000
