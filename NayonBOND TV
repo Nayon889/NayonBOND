@@ -748,7 +748,8 @@ http://103.153.39.36:8000/play/a01x
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/Disney_Channel_logo.svg.png",Disney Channel
 #EXTVLCOPT:network-caching=1000
 #http://45.161.188.242:88/disneychannel/mono.m3u8
-http://103.153.39.36:8000/play/a01y
+#http://103.153.39.36:8000/play/a01y
+http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/86.ts
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/manoranjan%20tv.png",Manoranjan TV
 #EXTVLCOPT:network-caching=1000
