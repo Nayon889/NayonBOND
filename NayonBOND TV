@@ -48,7 +48,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png",ATN Bangla
 #EXTVLCOPT:network-caching=1000
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+http://103.159.4.38:5868/BD-BANGLA-6/index.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
@@ -60,8 +61,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi TV
 #EXTVLCOPT:network-caching=1000
-#http://103.159.4.38:5868/BD-BANGLA-10/tracks-v1a1/mono.m3u8
-http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+http://103.159.4.38:5868/BD-BANGLA-10/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-10/index.m3u8
+#http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #https://tempx.jagobd.com:441/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #https://tempskyview.jagobd.com:441/boishakhi/boishakhitv-org.stream/playlist.m3u8
 
@@ -74,7 +76,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png",NTV
 #EXTVLCOPT:network-caching=1000
 #http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAU5BxQ-Mg5EEqA4gNn-Nz0fy-wsKASotiAw&usqp=CAU",Doyel TV
 #EXTVLCOPT:network-caching=1000
@@ -84,6 +87,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTVLCOPT:network-caching=1000
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
@@ -364,14 +368,20 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/Dh0neKDKLrs.png" ,Channel 24
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png",INDEPENDENT TV
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/live-orgin/independent-8-org.stream/chunks.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/XA5u4gk.png",DBC News
 #EXTVLCOPT:network-caching=1000
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#https://live2.bd-cast.net/jago/1/c2VydmVyX4RpbEU9Mi9xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLLBr-1KvKzRIHN90uXom3rSETd3cyvnkfiQ&usqp=CAU",Ekattor
@@ -380,11 +390,16 @@ http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/00/News24logo%28BD%29.jpg/200px-News24logo%28BD%29.jpg",News 24
 #EXTVLCOPT:network-caching=1000
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+http://103.159.4.38:5868/BD-BANGLA-12/index.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png", Sangsad TV
 #EXTVLCOPT:network-caching=1000
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+http://103.106.2.149:13456/sangsad.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw",TBN 24 USA IPTV
 #EXTVLCOPT:network-caching=1000
@@ -407,26 +422,25 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zee%20bangla.jpeg",ZEE Bangla
 #EXTVLCOPT:network-caching=1000
-#https://durbinlive.com:443/live/jio?c=Zee_Bangla&q=800&e=.m3u8
+#https://last.gcdn.co/IND389/index.m3u8
 #http://103.161.2.142/hls/zeebanglahd.m3u8
-#https://edge4.bioscopelive.com/hls/anonymous/BJ8XiToXDMYDjbjheLU7sQ/1643308536/zee_bangla.m3u8
-http://flussonicusa.bdcabletv.com:80/live/PCPSCEDAQt/ou0mthW/856.m3u8
+https://tvstream.fun/jtv/m3uu8.php?c=Zee_Bangla&q=800&e=ishanjtv.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zee%20bangla%20hd.jpeg",ZEE Bangla HD
 #EXTVLCOPT:network-caching=1000
-#http://208.86.19.21:80/906.stream/index.m3u8
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
+#https://nayeem-parvez.gq/zee5.php?c=zeebangla
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3409.m3u8
+http://flussonicusa.bdcabletv.com:80/live/PCPSCEDAQt/ou0mthW/856.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg",ZEE Bangla Cinema
 #EXTVLCOPT:network-caching=1000
-#https://durbinlive.com:443/live/jio?c=Zee_Cinema&q=800&e=.m3u8
-https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
+#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
+https://tvstream.fun/jtv/m3uu8.php?c=Zee_Bangla_Cinema&q=800&e=ishanjtv.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIrqFypKCm7Xkcdniepuqwu16IpwsxB3y3w&usqp=CAU", Star Jalsha
 #EXTVLCOPT:network-caching=1000
 #http://103.159.4.38:5868/STARJALSHA/index.m3u8
-#http://208.86.19.21:80/908.stream/index.m3u8
-http://str24.l9574.com/618.stream/index.m3u8
+https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://play-lh.googleusercontent.com/gInBuHP9xh4CD1lc18uMNIArjhTiu4W8guvtzGhgx9z-X_Ax0nzYf8wiDBfiEDF-tg",Star Jalsha HD
 #EXTVLCOPT:network-caching=1000
