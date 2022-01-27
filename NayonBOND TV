@@ -141,13 +141,11 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://cdn1-europe.smartcast.tv/rtvd/cnnb_backup/playlist.m3u8?Live-TV
 #http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
 
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/191675475_4161050773974455_3270163800606392930_n.jpg",Meem TV
-#EXTVLCOPT:network-caching=1000
-
-
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/0rPdpW9/MB-TV.jpg",Movie Bangla TV
 #EXTVLCOPT:network-caching=1000
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+#https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://pbs.twimg.com/profile_images/876837140390305793/hbLBrxmj.png",Amar Bangla
 #EXTVLCOPT:network-caching=1000
@@ -155,8 +153,8 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/2cpHJKq.png",Nagorik TV
 #EXTVLCOPT:network-caching=1000
-#http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
-https://last.gcdn.co/IND433/index.m3u8
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+#https://last.gcdn.co/IND433/index.m3u8
 #http://103.161.2.142/hls/nagoriktv.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nexus%20tv.jpeg",Nexus TV
