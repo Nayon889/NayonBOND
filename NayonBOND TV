@@ -567,18 +567,20 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2842
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sony%20max.png",Sony Max
 #EXTVLCOPT:network-caching=1000
+http://nicefly.xyz:80/h21041003/651032140/246204
 #https://durbinlive.com:443/live/jio?c=Sony_Max_HD&q=auto&e=IshanJiotv.m3u8
-http://208.86.19.21:80/706.stream/index.m3u8
+
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",Sony Max HD
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#http://183.178.58.115:8027/0.m3u8
+#
 
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/max2.png",Sony Max 2
 #EXTVLCOPT:network-caching=1000
-https://durbinlive.com:443/live/jio?c=Sony_MAX2&q=auto&e=IshanJiotv.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/197
+#https://durbinlive.com:443/live/jio?c=Sony_MAX2&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Zee_Action_new.png/revision/latest?cb=20200113074207",Zee Action
 #EXTVLCOPT:network-caching=1000
