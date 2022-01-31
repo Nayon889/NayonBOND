@@ -193,6 +193,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #http://89.187.185.89:3232/bd-gazi/tracks-v1a1/mono.m3u8
 http://live.flixhub.net/hls/Gazi-TV.m3u8
+#https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1313758499.m3u8
 #http://103.161.2.142/hls/Gazi-TV.m3u8
 
@@ -683,11 +684,11 @@ https://durbinlive.com:443/live/jio?c=MTV&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zoom.jpeg",ZOOM
 #EXTVLCOPT:network-caching=1000
-http://103.161.2.142/hls/zoom.m3u8
+http://live.flixhub.net/hls/zoom.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/mtv%20beats%20hd.jpeg",MTV Beats
 #EXTVLCOPT:network-caching=1000
-https://durbinlive.com:443/live/jio?c=MTV_Beats_HD&q=auto&e=IshanJiotv.m3u8
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Zing_2011_logo.png/1200px-Zing_2011_logo.png",Zing
 #EXTVLCOPT:network-caching=1000
@@ -708,11 +709,7 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/masti.jpeg",Masti
 #EXTVLCOPT:network-caching=1000
-http://103.161.2.142/hls/9xm.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/songdew-tv-black.png",SongDew TV
-#EXTVLCOPT:network-caching=1000
-https://durbinlive.com:443/live/jio?c=SongDew_TV&q=auto&e=IshanJiotv.m3u8
+http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/ary%20musik.jpeg",ARY Musik
 #EXTVLCOPT:network-caching=1000
@@ -720,7 +717,7 @@ http://stream.arylive.com/arymusik/myStream/tracks-v2a1/mono.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/music%20india.png",Music India
 #EXTVLCOPT:network-caching=1000
-https://durbinlive.com:443/live/jio?c=Music_India&q=auto&e=IshanJiotv.m3u8
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/kadak_logo_400x400.png",Kadak Hits
 #EXTVLCOPT:network-caching=1000
@@ -757,10 +754,6 @@ http://221.120.204.4/URDU-1-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/Ll6GlqY.png",V2Beat
 #EXTVLCOPT:network-caching=1000
 https://de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/insync.png",Insync
-#EXTVLCOPT:network-caching=1000
-https://durbinlive.com:443/live/jio?c=Insync&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/boogle%20bollywood.jpeg",Boogle Bollywood
 #EXTVLCOPT:network-caching=1000
