@@ -195,7 +195,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1313758499.m3u8
-#http://103.161.2.142/hls/Gazi-TV.m3u8
+#https://live.durbinlive.com/hls/Gazi-TV.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEk4ZLcUubLu3M_nvjO2ANzFeMIOyp848NtQ&usqp=CAU",Can Bangla 
 #EXTVLCOPT:network-caching=1000
