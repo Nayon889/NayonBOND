@@ -287,12 +287,12 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxwKztAr19AtXTKIlsi5mHDxRluHiV5JNSeA&usqp=CAU",PeaceTV Bangla
 #EXTVLCOPT:network-caching=1000
-http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
+#http://89.38.99.153:8032/eu_bangla_adapt/tracks-v1a1/mono.m3u8
 #http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/peace%20tv%20urdu.png",PeaceTV URDU
 #EXTVLCOPT:network-caching=1000
-http://89.38.99.153:8032/eu_urdu_adapt/tracks-v3a1/mono.m3u8
+#http://89.38.99.153:8032/eu_urdu_adapt/tracks-v3a1/mono.m3u8
 #http://199.223.252.162:8032/urdu_adaptive/index.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/59/Peace_TV_official_logo.png",PeaceTV EN
