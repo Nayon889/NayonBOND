@@ -816,7 +816,7 @@ http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/hbo.png",HBO
 #EXTVLCOPT:network-caching=1000
-http://45.161.188.242:88/hbo/mono.m3u8
+http://190.171.101.36:80/HBO/tracks-v3a2/mono.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/HBO_Plus.png",HBO Plus
 #EXTVLCOPT:network-caching=1000
