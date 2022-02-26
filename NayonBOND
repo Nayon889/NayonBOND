@@ -437,25 +437,22 @@ http://flussonicusa.bdcabletv.com:80/live/PCPSCEDAQt/ou0mthW/856.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg",ZEE Bangla Cinema
 #EXTVLCOPT:network-caching=1000
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
-http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
+http://103.170.140.8/hls/zee-bangla-cinema.m3u8
+#http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIrqFypKCm7Xkcdniepuqwu16IpwsxB3y3w&usqp=CAU", Star Jalsha
 #EXTVLCOPT:network-caching=1000
 http://live.flixhub.net/hls/starjalsha.m3u8
-#http://103.159.4.38:5868/STARJALSHA/index.m3u8
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2857
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/29094
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://play-lh.googleusercontent.com/gInBuHP9xh4CD1lc18uMNIArjhTiu4W8guvtzGhgx9z-X_Ax0nzYf8wiDBfiEDF-tg",Star Jalsha HD
 #EXTVLCOPT:network-caching=1000
-#http://103.159.4.38:5868/STARJALSHA/tracks-v1a1/mono.m3u8
-http://flussonicusa.bdcabletv.com/live/PCPSCEDAQt/ou0mthW/857.m3u8
+http://103.170.140.8/hls/starjalsha.m3u8
+#http://flussonicusa.bdcabletv.com/live/PCPSCEDAQt/ou0mthW/857.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/jalsha%20movies.png",Star Jalsha Movies
 #EXTVLCOPT:network-caching=1000
-#http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
-http://live.flixhub.net/hls/jalshamovies.m3u8
+http://103.170.140.8/hls/jalshamovies.m3u8
+#http://live.flixhub.net/hls/jalshamovies.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://exchange4media.gumlet.io/news-photo/114931-pic31.jpg?format=webp&w=400&dpr=2.6",Colors Bangla
 #EXTVLCOPT:network-caching=1000
@@ -468,31 +465,31 @@ https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/colors%20bangla%20cinema.jpeg",Colors Bangla Cinema
 #EXTVLCOPT:network-caching=1000
-http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
+#http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
+http://103.170.140.8/hls/colore-bangla-cinema.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png", Sony Aath 
 #EXTVLCOPT:network-caching=1000
-http://live.flixhub.net/hls/Sony_Aath.m3u8
-#http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#https://tvstream.fun/jtv/m3uu8.php?c=Sony_aath&q=800&e=ishanjtv.m3u8
+#http://live.flixhub.net/hls/Sony_Aath.m3u8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sunbangala1.sunkabangla.bangla3_1.png",Sun Bangla
 #EXTVLCOPT:network-caching=1000
-http://live.flixhub.net/hls/sunbangla.m3u8
+http://103.170.140.8/hls/sunbangla.m3u8
+#http://live.flixhub.net/hls/sunbangla.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/unnamed.jpg",Akash Aath
 #EXTVLCOPT:network-caching=1000
-https://tvstream.fun/jtv/m3uu8.php?c=Aakaash_bangla&q=800&e=ishanjtv.m3u8
+
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.imgur.com/pQT1shs.jpg",DD Bangla
 #EXTVLCOPT:network-caching=1000
-#https://streamer-1.toffeelive.com/mobile_hls/dd_bangla/5/04dfcf51f5f17bc7739a41f294e2adbb/auto
-https://tvstream.fun/jtv/m3uu8.php?c=DD_Bangla&q=800&e=ishanjtv.m3u8
+
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh4bzYUrSFDja1ufRRnomNqycj4thhfeuyVg&usqp=CAU",Sangeet Bangla
 #EXTVLCOPT:network-caching=1000
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
-#https://tvstream.fun/jtv/m3uu8.php?c=Sangeet_Bangla&q=800&e=ishanjtv.m3u8
+#
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/dhoom%20music.jpeg",Dhoom Music
 #EXTVLCOPT:network-caching=1000
@@ -765,9 +762,8 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
 #EXTVLCOPT:network-caching=1000
-#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
-#http://103.161.2.142/hls/ngohd.m3u8
-http://live.flixhub.net/hls/ngohd.m3u8
+#http://live.flixhub.net/hls/ngohd.m3u8
+http://103.170.140.8/hls/ngohd.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet Hindi
 #EXTVLCOPT:network-caching=1000
@@ -775,11 +771,11 @@ http://live.flixhub.net/hls/animalplanent.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet English
 #EXTVLCOPT:network-caching=1000
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/1643.m3u8
+
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Hindi
 #EXTVLCOPT:network-caching=1000
-#https://durbinlive.com:443/live/jio?c=Discovery_Channel_Hindi&q=auto&e=IshanJiotv.m3u8
+#http://103.170.140.8/hls/discovery.m3u8
 http://live.flixhub.net/hls/discovery.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery English
