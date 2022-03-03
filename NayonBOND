@@ -505,14 +505,10 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png", Sony SAB
 #EXTVLCOPT:network-caching=1000
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
-#https://tvstream.fun/jtv/m3uu8.php?c=Sony_SAB&q=800&e=ishanjtv.m3u8
-#https://tvstream.fun/jtv/m3uu8.php?c=Sony_SAB_HD&q=800&e=ishanjtv.m3u8
-#https://durbinlive.com:443/live/jio?c=Sony_SAB&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sony%20pal.jpeg", Sony Pal
 #EXTVLCOPT:network-caching=1000
-https://tvstream.fun/jtv/m3uu8.php?c=Sony_Pal&q=800&e=ishanjtv.m3u8
-#https://durbinlive.com:443/live/jio?c=Sony_Pal&q=auto&e=IshanJiotv.m3u8
+http://194.76.186.79:8000/play/a02c
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQcp8IvUAr5AUbOb88QMSCT-CX314qGdW1lxPhnJQ=s900-c-k-c0x00ffffff-no-rj",Zee TV HD
 #EXTVLCOPT:network-caching=1000
