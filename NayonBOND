@@ -768,8 +768,8 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
 #EXTVLCOPT:network-caching=1000
-#http://live.flixhub.net/hls/ngohd.m3u8
-http://103.170.140.8/hls/ngohd.m3u8
+http://live.flixhub.net/hls/ngohd.m3u8
+#http://103.170.140.8/hls/ngohd.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet Hindi
 #EXTVLCOPT:network-caching=1000
