@@ -270,7 +270,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-#Islamic (group-title="Islamic"
+#🇮​​​​​🇸​​​​​🇱​​​​​🇦​​​​​🇲​​​​​🇮​​​​​🇨​​​​​ (group-title="Islamic"
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsQSiNvFP3xy9RCCD5dRrP832YRCnUGe3JSipgsg=s900-c-k-c0x00ffffff-no-rj",Madani Bangla 
 #EXTVLCOPT:network-caching=1000
@@ -345,7 +345,7 @@ https://tempe.jagobd.com:445/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 
 
-#Bangla group-title="News"
+#🇳​​​​​🇪​​​​​🇼​​​​​🇸​​​​​ group-title="News"
 
 #EXTINF:-1 group-title="News" tvg-logo="http://15.20.20.20/live/channel-logo/atn-news.png",ATN NEWS
 #EXTVLCOPT:network-caching=1000
@@ -424,7 +424,7 @@ https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master_1564.m3u8
 
 
 
-#IndianBangla  group-title="Indian" 
+#🇮​​​​​🇳​​​​​🇩​​​​​🇮​​​​​🇦​​​​​🇳​​​​​ 🇧​​​​​🇦​​​​​🇳​​​​​🇬​​​​​🇱​​​​​🇦​​
 
 
 
@@ -504,7 +504,7 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 
 
 
-#HINDI group-title="Indian" 
+#🇭​​​​​🇮​​​​​🇳​​​​​🇩​​​​​🇮​​​​​
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://origindev-static.sonyliv.com/UI_icons/SAB_HD.png", Sony SAB
 #EXTVLCOPT:network-caching=1000
@@ -672,7 +672,7 @@ http://221.120.204.4/GEO-ENT-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
-#Music  group-title="Music"
+#🇲​​​​​🇺​​​​​🇸​​​​​🇮​​​​​🇨​​​​​  group-title="Music"
 
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/zoom.jpeg",ZOOM
@@ -763,7 +763,7 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 
 
 
-#Wild
+#🇼​​​​​🇮​​​​​🇱​​​​​🇩​​​​​
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
 #EXTVLCOPT:network-caching=1000
@@ -804,7 +804,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 
 
-#EnglishMovies
+#🇪​​​​​🇳​​​​​🇬​​​​​🇱​​​​​🇮​​​​​🇸​​​​​🇭​​​​​
 
 #EXTINF:-1 group-title="English" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/star%20movies.jpeg",Star Movies HD
 #EXTVLCOPT:network-caching=1000
@@ -853,11 +853,7 @@ http://221.120.204.4:80/FOX-LIFE-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
 
 
-#Cartoon
-
-
-
-
+#🇨​​​​​🇦​​​​​🇷​​​​​🇹​​​​​🇴​​​​​🇴​​​​​🇳​​​​​
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nick.jpeg",Nick Bangla
 #EXTVLCOPT:network-caching=1000
@@ -883,8 +879,8 @@ https://live.hungama.com/linear/dil-se/playlist_480p/index.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/Disney_Channel_logo.svg.png",Disney Channel
 #EXTVLCOPT:network-caching=1000
 #http://45.161.188.242:88/disneychannel/mono.m3u8
-#http://103.153.39.36:8000/play/a01y
-http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/86.ts
+http://103.153.39.36:8000/play/a01y
+#http://visionmedaitv.nl:7444/live/VisionMediaClubOnL1n3/q2i9MCc7NK/86.ts
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/manoranjan%20tv.png",Manoranjan TV
 #EXTVLCOPT:network-caching=1000
@@ -904,8 +900,7 @@ http://live.flixhub.net/hls/dis-kid.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sony%20yay.png",Sony Yay
 #EXTVLCOPT:network-caching=1000
-http://103.161.2.142/hls/sonyyay.m3u8
-#https://durbinlive.com:443/live/jio?c=Sony_Yay_Hindi&q=auto&e=IshanJiotv.m3u8
+#http://103.161.2.142/hls/sonyyay.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/cartoon%20net%20arabic.png",Cartoon Network Arabic
 #EXTVLCOPT:network-caching=1000
@@ -913,7 +908,7 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/baby%20tv.jpeg",Baby TV
 #EXTVLCOPT:network-caching=1000
-http://45.161.188.242:88/babytv/mono.m3u8
+
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/sonic.jpeg",Sonic Bangla
 #EXTVLCOPT:network-caching=1000
@@ -925,4 +920,10 @@ http://45.161.188.242:88/babytv/mono.m3u8
 
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/mr%20bean.jpeg",Mr. Bean 24/7
 #EXTVLCOPT:network-caching=1000
-http://bestsave.ltd:2052/55667788/88776655/29022
+
+
+
+
+
+
+
