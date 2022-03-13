@@ -932,6 +932,8 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 #🇷​​​​​🇦​​​​​🇩​​​​​🇮​​​​​🇴​​​​​
 
+#EXTINF:-1 group-title="Radio" tvg-logo="",SARAHA
+http://node-31.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-ttl=5&rj-tok=AAABf4D6-LYABFf8VNHt9UyJMw
 
 #EXTINF:-1 group-title="Radio" tvg-logo="",Radio Foorti
 http://node-35.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABf4Dv8hcA8ndPPvdE_lsw6Q
@@ -949,12 +951,32 @@ http://173.212.234.220/radio/8000/radio.mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="",Radio Ujala
 http://stream2.ujala.nl/stream/2/listen.mp3
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio
+#EXTINF:-1 group-title="Radio" tvg-logo="",Colours FM
+http://45.64.135.88:8000/stream1
 
+#EXTINF:-1 group-title="Radio" tvg-logo="",Jaago FM
+http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 
+#EXTINF:-1 group-title="Radio" tvg-logo="",Radio ABC
+http://node-34.zeno.fm/h7n8ug96eeruv?zs=2MDCQL45S2eZkH-r9QJyiA&rj-tok=AAABf4D4XmoAkGTpAG7zAuZaJA&rj-ttl=5
 
+#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Audio
+http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
 
+#EXTINF:-1 group-title="Radio" tvg-logo="",Spice FM
+http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
 
+#EXTINF:-1 group-title="Radio" tvg-logo="",Traffic FM
+http://as3.digitalsynapsebd.com:8263/;stream.mp3?listening-from-radio-garden=1601016261922
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Big FM
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Awaj
+http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
+
+#EXTINF:-1 group-title="Radio" tvg-logo="",Suno FM
+http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 
 
 
