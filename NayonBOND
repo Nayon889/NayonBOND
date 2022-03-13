@@ -932,57 +932,62 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 
 #🇷​​​​​🇦​​​​​🇩​​​​​🇮​​​​​🇴​​​​​
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",SARAHA
+#EXTINF:-1 group-title="Radio" tvg-logo="https://zeno.fm/_next/image/?url=https%3A%2F%2Fimages.zeno.fm%2F6QcG3qjGx7rpe7Tgy95Zgm9D4Zl6I8DnJjeB6VI6PlA%2Frs%3Afit%3A240%3A240%2Fg%3Ace%3A0%3A0%2FaHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJRGd1cE90N2drTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRGd1dV9Pa3dzTW9nRUVlbVZ1YncvaW1hZ2UvP3Jlc2l6ZT0yNDB4MjQwJnVwZGF0ZWQ9MTY0NDY3MzUyNjAwMA.webp&w=640&q=75",SARAHA
 http://node-31.zeno.fm/5hx71hbuqhruv?listening-from-radio-garden=1601016201300&rj-ttl=5&rj-tok=AAABf4D6-LYABFf8VNHt9UyJMw
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Foorti
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJrJTnvKHZcAlsh9WtLniYQ5QPBB0GucM3cQ&usqp=CAU",Radio Foorti
 http://node-35.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABf4Dv8hcA8ndPPvdE_lsw6Q
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Amar
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2aTsg0cd880uVuB3DP-YXVwXiLsRe90G78w&usqp=CAU",Radio Amar
 http://118.179.215.45:8000/;stream/1
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSj8xDqyjHzJIFCeD1SiYAY6pR0tkoDsM9vQ&usqp=CAU",Radio Shadhin
 #http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
 http://node-28.zeno.fm/0zha3rfq02quv?zs=aEQUrjKyQ1yU4mlZak2e7Q&rj-tok=AAABf4DX5DcALYf1_xUvm-jngA&rj-ttl=5
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Carnival
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW71VSli3smbLBVGgKekFPqHh96W2wV9BvoQ&usqp=CAU",Radio Carnival
 http://94.23.30.114:8195/stream?listening-from-radio-garden=1601014708244
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Jaago FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq9PgbQ1zPwNmUDCqHzyuV940Cb60pDCdlgw&usqp=CAU",Jaago FM
 http://128.199.184.111:12496/;stream/1?listening-from-radio-garden=1601015113662
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Colours FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZZd6rlvoKqhKCk3gf54dLdpoxOe3bThK4A&usqp=CAU",Colours FM
 http://45.64.135.88:8000/stream1
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Audio
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDx6a4879KTJTtopeChy9L1xj3q-RC9QLpYw&usqp=CAU",Radio Audio
 http://162.254.150.34:8201/;?listening-from-radio-garden=1601015028090
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Traffic FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyzE8UritETwe8UQFtwctOW5wL-cdcn67h4g&usqp=CAU",Traffic FM
 http://as3.digitalsynapsebd.com:8263/;stream.mp3?listening-from-radio-garden=1601016261922
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Spice FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV6Y14JA5_KtZxzhrgg2myWvA2NUfEPl-2RA&usqp=CAU",Spice FM
 http://162.254.149.187:9300/;?listening-from-radio-garden=1601016233761
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Udaan
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_idrLT-pfsCu5UI-DNx_72x-jZUDH9btHxA&usqp=CAU",Radio Udaan
 http://173.212.234.220/radio/8000/radio.mp3
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Ujala
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwc30ZTd0IDDP9DeUmu7ACC_HyouKLLQInew&usqp=CAU",Radio Ujala
 http://stream2.ujala.nl/stream/2/listen.mp3
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio ABC
+#EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/ABC_Radio_%28Bangladesh%29.svg/1200px-ABC_Radio_%28Bangladesh%29.svg.png",Radio ABC
 http://node-34.zeno.fm/h7n8ug96eeruv?zs=2MDCQL45S2eZkH-r9QJyiA&rj-tok=AAABf4D4XmoAkGTpAG7zAuZaJA&rj-ttl=5
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Big FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7iGDauuwGzVC-48G20buMj55pX3fVK6YGgQ&usqp=CAU",Big FM
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Radio Awaj
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8CEHP1BZTN-tJCDfn6ePmC-UxAWtsKBfVRQ&usqp=CAU",Radio Awaj
 http://streamasiacdn.atc-labs.com/radioawaj.aac?listening-from-radio-garden=1601016488674
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",Suno FM
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQoFAjVegOB0Ou3005MPKhfFP1EYx8OF_UaQ&usqp=CAU",Suno FM
 http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 
-#EXTINF:-1 group-title="Radio" tvg-logo="",FM 88.8
+#EXTINF:-1 group-title="Radio" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR22Wn27YEtFBvgb8JMu_STYlzzbSCymA_jrw&usqp=CAU",FM 88.8
 http://as2.digitalsynapsebd.com:9236/;stream.mp3
+
+
+
+
+
 
 
 
