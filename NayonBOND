@@ -87,9 +87,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OVHdRDTjpvBTvXOk0xwMOfhSjCG_cCmt1w&usqp=CAU",Ekushey TV
 #EXTVLCOPT:network-caching=1000
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
+http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 #https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV HD
