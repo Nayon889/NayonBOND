@@ -536,6 +536,7 @@ http://live.flixhub.net/hls/zeetv.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl7FvYb852qG0hvJI7RAeCAxbAdgcV8yNXI9bJvKKCwU7rzuxHdC2-Ud8&s=10",&TV HD
 #EXTVLCOPT:network-caching=1000
 https://yuppsportsind.akamaized.net/121120/andtvhdus/playlist.m3u8
+#http://tvcdn1.nagordola.live/roarzone/74/chunks.m3u8?nimblesessionid=12975576&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDIyIDEyOjIwOjAwIFBNJmhhc2hfdmFsdWU9VGlkdjFKNk82bGhtQ1pwdVE4Zm9ldz09JnZhbGlkbWludXRlcz02MCZpZD01
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/SET_India_logo.svg/1200px-SET_India_logo.svg.png",Sony Entertainment HD
 #EXTVLCOPT:network-caching=1000
