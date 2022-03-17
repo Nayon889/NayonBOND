@@ -78,8 +78,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png",NTV
 #EXTVLCOPT:network-caching=1000
-#http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+#https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAU5BxQ-Mg5EEqA4gNn-Nz0fy-wsKASotiAw&usqp=CAU",Doyel TV
@@ -89,11 +89,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1OVHdRDTjpvBTvXOk0xwMOfhSjCG_cCmt1w&usqp=CAU",Ekushey TV
 #EXTVLCOPT:network-caching=1000
 #http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
 #http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV HD
 #EXTVLCOPT:network-caching=1000
@@ -155,7 +155,7 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/2cpHJKq.png",Nagorik TV
 #EXTVLCOPT:network-caching=1000
-#http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #https://last.gcdn.co/IND433/index.m3u8
 #http://103.161.2.142/hls/nagoriktv.m3u8
 
@@ -222,8 +222,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg", Duronto TV
 #EXTVLCOPT:network-caching=1000
 http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
-#https://shark2-3232.bd-cast.net/ban-duronto/index.m3u8
-#http://89.187.185.89:3232/ban-duronto/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/5/58/বিজয়_টিভির_লোগো.png/220px-বিজয়_টিভির_লোগো.png",Bijoy TV
 #EXTVLCOPT:network-caching=1000
@@ -325,7 +323,7 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/fxq0pV2.png", Asian TV
 #EXTVLCOPT:network-caching=1000
 #http://103.159.4.38:5868/BD-BANGLA-22/index.m3u8
-#http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
+http://10.16.100.203:8082/bangla/tv_AsiaN.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/06/alponatv.jpg", Alpona TV
 #EXTVLCOPT:network-caching=1000
@@ -406,8 +404,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="News" tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png", Sangsad TV
 #EXTVLCOPT:network-caching=1000
-#http://103.106.2.149:13456/sangsad.m3u8
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+http://103.106.2.149:13456/sangsad.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw",TBN 24 USA IPTV
