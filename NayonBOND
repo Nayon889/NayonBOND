@@ -49,9 +49,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/1280px-ATN_Bangla.svg.png",ATN Bangla
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
+#http://10.16.100.203:8082/bangla/ATN_bangla_local.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-6/index.m3u8
-#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #http://iptvbd.jagobd.com:1931/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 
@@ -63,10 +63,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Boishakhi_TV_logo.svg/400px-Boishakhi_TV_logo.svg.png",Boishakhi TV
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.203:8082/bangla/boishakhi.m3u8
+#http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-10/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-10/index.m3u8
-#http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #https://tempx.jagobd.com:441/boishakhi/boishakhitv-org.stream/playlist.m3u8
 #https://tempskyview.jagobd.com:441/boishakhi/boishakhitv-org.stream/playlist.m3u8
 
@@ -92,8 +92,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #http://103.159.4.38:5868/BD-BANGLA-16/tracks-v1a1/mono.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-16/index.m3u8
 #https://ekusheyserver.com/etvlivesn.m3u8
-http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
-#https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV HD
 #EXTVLCOPT:network-caching=1000
@@ -155,7 +155,7 @@ http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/2cpHJKq.png",Nagorik TV
 #EXTVLCOPT:network-caching=1000
-http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
+#http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #https://last.gcdn.co/IND433/index.m3u8
 #http://103.161.2.142/hls/nagoriktv.m3u8
 
