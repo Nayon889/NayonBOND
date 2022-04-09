@@ -83,14 +83,15 @@ http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.channelionline.com/wp-content/uploads/2018/04/channelionline.jpg",Channel I HD
 #EXTVLCOPT:network-caching=1000
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+https://somoy.appv.jagobd.com:444/somoy/channeli-8-org.stream/lplaylist.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://15.20.20.20/live/channel-logo/ntv.png",NTV
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
-#https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-18/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAU5BxQ-Mg5EEqA4gNn-Nz0fy-wsKASotiAw&usqp=CAU",Doyel TV
