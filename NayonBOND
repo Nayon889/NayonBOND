@@ -35,11 +35,10 @@ http://103.159.4.38:9191/CH3-SP3/index.m3u8
 #http://103.135.133.21/hls/stream3.m3u8
 #http://103.150.209.115:8000/play/a01n/index.m3u8
 #http://103.159.4.38:9191/CH2-SP2/index.m3u8
-http://acdn.bdixsports.live:1935/live/event.stream/chunklist_w1768349883_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ5NTk1ODgwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ5NTg4ODgwJmJkaXhzcG9ydHN0b2tlbmhhc2g9S2ZEVFdVZlowTFlLd25XRG5YSDRLbnJHcVhNWkd4MVVHZW1taUVHTks5az0=.m3u8
 
 #EXTINF:-1 group-title="Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSU4En0P3CsFYmXa_zLv68saBHXrebDqoEwA&usqp=CAU",Live Match 3
 #EXTVLCOPT:network-caching=1000
-http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1787952385_tkYmRpeHNwb3J0c3Rva2VuZW5kdGltZT0xNjQ5NTk2MDAwJmJkaXhzcG9ydHN0b2tlbnN0YXJ0dGltZT0xNjQ5NTg5MDAwJmJkaXhzcG9ydHN0b2tlbmhhc2g9a20zNEJreWtMaWIyRmtSeXBfT3N3RkJfZ1RXMTR3c0w3YklIQm1EcE9fUT0=.m3u8
+http://file.midiplexhd.com/hls/sky14.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/400px-Bangladesh_Television_Logo.svg.png",BTV
 #EXTVLCOPT:network-caching=1000
