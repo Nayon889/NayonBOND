@@ -40,7 +40,8 @@ http://172.16.29.28:8080/hls/live1-fnet.m3u8
 
 #EXTINF:-1 group-title="Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSU4En0P3CsFYmXa_zLv68saBHXrebDqoEwA&usqp=CAU",Live Match 3
 #EXTVLCOPT:network-caching=1000
-http://file.midiplexhd.com/hls/sky14.m3u8
+#http://file.midiplexhd.com/hls/sky14.m3u8
+http://125.209.88.166:45793/BRN/beINSP13.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/400px-Bangladesh_Television_Logo.svg.png",BTV
 #EXTVLCOPT:network-caching=1000
