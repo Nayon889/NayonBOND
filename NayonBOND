@@ -458,7 +458,8 @@ http://str24.l9574.com/615.stream/index.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Zee_Bangla_Cinema_Logo.jpg",ZEE Bangla Cinema
 #EXTVLCOPT:network-caching=1000
-http://103.159.4.38:9191/CH26-INBD5/index.m3u8
+#http://103.159.4.38:9191/CH26-INBD5/index.m3u8
+http://10.252.253.254/hls/zee-bangla-cinema.m3u8
 
 #EXTINF:-1 group-title="Indian" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIrqFypKCm7Xkcdniepuqwu16IpwsxB3y3w&usqp=CAU", Star Jalsha
 #EXTVLCOPT:network-caching=1000
