@@ -775,12 +775,12 @@ https://streaming.ptcplay.com/ptcPunjabiINOne/smil:Live.smil/chunklist_w13898716
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/nat%20neo.jpeg",National Geography
 #EXTVLCOPT:network-caching=1000
-http://live.flixhub.net/hls/ngohd.m3u8
+http://10.252.253.254/hls/ngohd.m3u8
 #http://103.170.140.8/hls/ngohd.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet Hindi
 #EXTVLCOPT:network-caching=1000
-http://live.flixhub.net/hls/animalplanent.m3u8
+http://10.252.253.254/hls/animalplanent.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/animal%20planet.jpeg",Animal Planet English
 #EXTVLCOPT:network-caching=1000
@@ -789,7 +789,7 @@ http://live.flixhub.net/hls/animalplanent.m3u8
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery Hindi
 #EXTVLCOPT:network-caching=1000
 #http://103.170.140.8/hls/discovery.m3u8
-http://live.flixhub.net/hls/discovery.m3u8
+http://10.252.253.254/hls/discovery.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/discovery%20channel.jpeg",Discovery English
 #EXTVLCOPT:network-caching=1000
@@ -797,11 +797,11 @@ https://livecdn.fptplay.net/hda2/discovery_hls.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/wild.png",Wild HD
 #EXTVLCOPT:network-caching=1000
-http://live.flixhub.net/hls/wild.m3u8
+http://10.252.253.254/hls/wild.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAq0Qqxdx0rbwIPLYNCyabTFkLv7rXOoma4Q&usqp=CAU",BBC Earth
 #EXTVLCOPT:network-caching=1000
-http://live.flixhub.net/hls/bbcearth.m3u8
+http://10.252.253.254/hls/bbcearth.m3u8
 
 #EXTINF:-1 group-title="Wild & Animal" tvg-logo="https://gd.mdsharifulislamnayon.workers.dev/1:/TV%20LOGO/redbull%20tv.png",Redbull TV
 #EXTVLCOPT:network-caching=1000
