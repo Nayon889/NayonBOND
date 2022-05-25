@@ -25,8 +25,8 @@ https://gd.mdsharifulislamnayon.workers.dev/1:/Video%20Song/Eredaze%20-Torn%20Ap
 #EXTVLCOPT:network-caching=1000
 #http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
 #http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
-#http://103.159.4.38:9191/CH3-SP3/index.m3u8
-http://10.252.253.254/hls/stersports1hd.m3u8
+http://103.159.4.38:9191/CH3-SP3/index.m3u8
+#http://10.252.253.254/hls/stersports1hd.m3u8
 
 #EXTINF:-1 group-title="Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSU4En0P3CsFYmXa_zLv68saBHXrebDqoEwA&usqp=CAU",Live Match 2
 #EXTVLCOPT:network-caching=1000
@@ -35,10 +35,10 @@ http://10.252.253.254/hls/stersports1hd.m3u8
 #http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
 #http://103.135.133.21/hls/stream3.m3u8
 #http://103.150.209.115:8000/play/a01n/index.m3u8
-#http://103.159.4.38:9191/CH2-SP2/index.m3u8
+http://103.159.4.38:9191/CH2-SP2/index.m3u8
 #http://178.128.212.189:8081/TPL1/SLOW/playlist.m3u8
 #http://172.16.29.28:8080/hls/live1-fnet.m3u8
-http://10.252.253.254/hls/Star_Sport_Select1HD.m3u8
+#http://10.252.253.254/hls/Star_Sport_Select1HD.m3u8
 
 #EXTINF:-1 group-title="Live Match" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSU4En0P3CsFYmXa_zLv68saBHXrebDqoEwA&usqp=CAU",Live Match 3
 #EXTVLCOPT:network-caching=1000
